@@ -76,9 +76,9 @@
    }
  }
  /* Extra-large Media */
- @media (min-width: 2560px) {
-   .container {
-     width: 2530px;
+@media tv and (min-width: 700px) { 
+   .container { 
+      width:100%; 
    }
  }
 
