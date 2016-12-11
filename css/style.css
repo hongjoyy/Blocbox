@@ -418,6 +418,10 @@
    list-style-type: none;
    margin-bottom: 15px;
  }
+.left-nav .items ul .active {
+    background-color: rgba(255,255,255,0.5);
+    padding: 2px 0;
+}
  .left-nav .items ul li a {
    color:#FFFFFF;
    text-decoration: none;
@@ -581,3 +585,4 @@
    line-height: 18px;
    margin:5px 0 0;
  }
+
