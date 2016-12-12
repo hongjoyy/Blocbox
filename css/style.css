@@ -609,6 +609,7 @@
      display:block;
    }
  }
+ 
 /* Tablets */
  @media (min-width:768px) {
    .content {
@@ -634,6 +635,7 @@
       text-align: right;
     }
  }
+
 /* Laptops and Desktops */
  @media (min-width:992px) {
    .content {
